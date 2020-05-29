@@ -1,2 +1,0 @@
-# livingdocs-delivery
-Begin app
